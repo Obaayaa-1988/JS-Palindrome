@@ -28,3 +28,11 @@ body{
     padding: 5rem 3rem;
     border-radius: 5px;
 }
+
+input{
+    width: 70%;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid rgb(116, 116, 4);
+    padding: 1rem 5px;
+}
