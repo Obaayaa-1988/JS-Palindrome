@@ -11,7 +11,7 @@
 }
 
 body{
-    background-color: rgb(42, 88, 54);
+    background-color: deeppink;
 }
 
 .main{
@@ -46,4 +46,14 @@ button{
     border-radius: 3px;
     color: white;
     background-color: purple;
+    font-size: 20px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+p.result{
+    margin-top: 3.5rem;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 600;
 }
