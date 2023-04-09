@@ -15,7 +15,7 @@ function logicPalindrome(){
 
     let endWord = word.substring(len - Math.floor(len / 2)).toLowerCase();
     //this is for reversing the last two letters to it looks the same as the first two letters(startword) 
-    // let flip = [...endWord].reverse().join("")
+    let flip = [...endWord].reverse().join("")
 
 
 }
